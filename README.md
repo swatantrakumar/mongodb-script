@@ -1,1 +1,1 @@
-# mongodb-script
+# database-scripts
